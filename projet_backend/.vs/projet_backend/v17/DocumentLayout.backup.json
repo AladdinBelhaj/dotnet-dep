@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4246906-60E2-479F-918B-8EC41A32B7EA}|projet_backend.Tests\\projet_backend.Tests.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\projet_backend.tests\\testresults\\f551616e-f3bd-4e64-a407-104ac6d4bbf4\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B4246906-60E2-479F-918B-8EC41A32B7EA}|projet_backend.Tests\\projet_backend.Tests.csproj|solutionrelative:projet_backend.tests\\testresults\\f551616e-f3bd-4e64-a407-104ac6d4bbf4\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4246906-60E2-479F-918B-8EC41A32B7EA}|projet_backend.Tests\\projet_backend.Tests.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\projet_backend.tests\\testresults\\f84ce9be-d562-4aac-ad04-a03cada52713\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B4246906-60E2-479F-918B-8EC41A32B7EA}|projet_backend.Tests\\projet_backend.Tests.csproj|solutionrelative:projet_backend.tests\\testresults\\f84ce9be-d562-4aac-ad04-a03cada52713\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\api\\migrations\\20251229150931_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|solutionrelative:api\\migrations\\20251229150931_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\api\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|solutionrelative:api\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\api\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|solutionrelative:api\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|solutionrelative:api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E8094-A399-463F-AF0B-5E966FAD1C2F}|Context\\Context.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8E8094-A399-463F-AF0B-5E966FAD1C2F}|Context\\Context.csproj|solutionrelative:context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23784DCC-32EF-4F71-A127-55C856A189D8}|Entities\\Entities.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23784DCC-32EF-4F71-A127-55C856A189D8}|Entities\\Entities.csproj|solutionrelative:entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23784DCC-32EF-4F71-A127-55C856A189D8}|Entities\\Entities.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23784DCC-32EF-4F71-A127-55C856A189D8}|Entities\\Entities.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|c:\\users\\asus\\source\\repos\\dotnet\\projet_backend\\api\\migrations\\20251204101905_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADD6B15-A66D-49F5-935C-4DB696048212}|API\\API.csproj|solutionrelative:api\\migrations\\20251204101905_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "coverage.cobertura.xml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\projet_backend.Tests\\TestResults\\f84ce9be-d562-4aac-ad04-a03cada52713\\coverage.cobertura.xml",
+              "RelativeDocumentMoniker": "projet_backend.Tests\\TestResults\\f84ce9be-d562-4aac-ad04-a03cada52713\\coverage.cobertura.xml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\projet_backend.Tests\\TestResults\\f84ce9be-d562-4aac-ad04-a03cada52713\\coverage.cobertura.xml",
+              "RelativeToolTip": "projet_backend.Tests\\TestResults\\f84ce9be-d562-4aac-ad04-a03cada52713\\coverage.cobertura.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-01-12T11:04:24.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "API\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T09:32:38.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "API\\DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T09:32:32.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251229150931_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\Migrations\\20251229150931_InitialCreate.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20251229150931_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\Migrations\\20251229150931_InitialCreate.cs",
+              "RelativeToolTip": "API\\Migrations\\20251229150931_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:09:31.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-29T22:45:45.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T22:36:49.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "coverage.cobertura.xml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\projet_backend.Tests\\TestResults\\f551616e-f3bd-4e64-a407-104ac6d4bbf4\\coverage.cobertura.xml",
+              "RelativeDocumentMoniker": "projet_backend.Tests\\TestResults\\f551616e-f3bd-4e64-a407-104ac6d4bbf4\\coverage.cobertura.xml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\projet_backend.Tests\\TestResults\\f551616e-f3bd-4e64-a407-104ac6d4bbf4\\coverage.cobertura.xml",
+              "RelativeToolTip": "projet_backend.Tests\\TestResults\\f551616e-f3bd-4e64-a407-104ac6d4bbf4\\coverage.cobertura.xml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-01-12T11:04:41.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T14:57:45.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\WeatherForecast.cs",
+              "RelativeToolTip": "API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:45:46.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251204101905_v1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\Migrations\\20251204101905_v1.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20251204101905_v1.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\Migrations\\20251204101905_v1.cs",
+              "RelativeToolTip": "API\\Migrations\\20251204101905_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:19:06.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAASwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:02:33.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "API.http",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\API.http",
+              "RelativeDocumentMoniker": "API\\API.http",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\API.http",
+              "RelativeToolTip": "API\\API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-04T08:57:27.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T08:57:17.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "Context\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\Context\\DataContext.cs",
+              "RelativeToolTip": "Context\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:26:28.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\Entities\\Role.cs",
+              "RelativeToolTip": "Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:25:54.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\dotnet\\projet_backend\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T08:24:51.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
