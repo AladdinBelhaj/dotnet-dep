@@ -132,7 +132,7 @@ resource "azurerm_linux_virtual_machine" "iv-vm" {
   ]
 
   # Using password auth strictly for ease of dev testing right now, per our discussion
-  admin_password                  = "SuperSecretPassword123!"
+  admin_password                  = "password"
   disable_password_authentication = false
 
   os_disk {
