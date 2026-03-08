@@ -6,6 +6,7 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
 using Microsoft.AspNetCore.Rewrite;
+using Prometheus;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -86,6 +87,9 @@ app.UseCors("AllowAll");
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
+
+app.UseHttpMetrics();
+app.MapMetrics();
 
 app.Run();
 
