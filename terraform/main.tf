@@ -15,7 +15,7 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "iv-rg" {
   name     = "iv-rg"
-  location = "France Central"
+  location = "Sweden Central"
   tags = {
     environment = "dev"
   }
@@ -42,7 +42,8 @@ resource "azurerm_public_ip" "iv-pip" {
   name                = "iv-pip"
   location            = azurerm_resource_group.iv-rg.location
   resource_group_name = azurerm_resource_group.iv-rg.name
-  allocation_method   = "Dynamic"
+  allocation_method   = "Static"
+  sku                 = "Standard"
 }
 
 # Network Security Group and rule
