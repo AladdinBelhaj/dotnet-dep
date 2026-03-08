@@ -14,7 +14,7 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "iv-rg" {
   name     = "iv-rg"
-  location = "Sweden Central"
+  location = "Norway East"
   tags = {
     environment = "dev"
   }
@@ -125,7 +125,7 @@ resource "azurerm_linux_virtual_machine" "iv-vm" {
   name                = "iv-vm"
   resource_group_name = azurerm_resource_group.iv-rg.name
   location            = azurerm_resource_group.iv-rg.location
-  size                = "Standard_B2s"
+  size                = "Standard_D2s_v3"
   admin_username      = "adminuser"
   network_interface_ids = [
     azurerm_network_interface.iv-nic.id,
