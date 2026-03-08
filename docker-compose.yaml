@@ -55,7 +55,7 @@ services:
     depends_on:
       - api
     ports:
-      - "5173:80"
+      - "80:80"
 
   prometheus:
     image: prom/prometheus:latest
